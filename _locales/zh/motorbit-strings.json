@@ -1,8 +1,8 @@
 {
     "motorbit|block": "MotorBit",
-    "motorbit.Servo|block": "舵机|%index|角度|%degree",
+    "motorbit.Servo|block": "engrenagem de direção|%index|ângulo|%degree",
     "motorbit.Servospeed|block": "舵机 Servo|%index|开始角度 %degree1|结束角度 %degree2|旋转速度 %speed",
-    "motorbit.StepperDegree|block": "步进电机 28BYJ-48|%index|角度 %degree",
+    "motorbit.StepperDegree|block": "Motor de Passo 28BYJ-48|%index|Deus é BOM %degree",
     "motorbit.StepperTurn|block": "步进电机 28BYJ-48|%index|圈数 %turn",
     "motorbit.StepperDual|block": "两个步进电机(角度)|STPM1_2 %degree1| STPM3_4 %degree2",
     "motorbit.StpCarMove|block": "步进小车 前进 |距离(cm)|%distance|轮直径(mm)|%diameter",
